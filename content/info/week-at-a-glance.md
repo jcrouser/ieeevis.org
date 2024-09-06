@@ -73,6 +73,7 @@ See this link for details on the <a href="/year/2022/info/ask-me-anything">Ask M
 **Morning (Blocks 1 and 2)**<br/>
 * [Workshops](/year/2024/info/workshops)
 * [Tutorials](/year/2024/info/tutorials)
+* [VAST Challenge](https://vast-challenge.github.io/2024/)
 
 <!-- *9:00 AM-12:00 PM AEDT (UTC+11)*<br/>
 * Room 101-102: **Visualization Analysis and Design** ([Tutorial](/year/2023/info/tutorials))  
